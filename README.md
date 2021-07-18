@@ -10,6 +10,7 @@ Installation:
 5. Replace the 'checkpoints' & 'distance' data in the 'Vinewoood Touge' row to the one you've downloaded.
 6. You don't need to mess with 'id', 'records', 'creator', and 'raceid'.
 7. Start your server, open up the racing app, then start 'Vinewoood Touge'.
+8. It's a sprint race so you'll just need to set the laps to 0.
 
 All the credit for the track goes to GTAWiseGuy who created the routes and turns. I only recreated it for QBCore, through video footage from Twitch streams.
 
